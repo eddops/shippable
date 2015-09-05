@@ -4,6 +4,7 @@ import json
 
 gh = Github(login='username', password='password')
 
+
 copitux = gh.events
 # print dir(copitux)
 # kennethreitz = gh.users.get('kennethreitz')
