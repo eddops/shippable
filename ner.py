@@ -1,5 +1,5 @@
 """
-Name Entity Recognition Module.
+Shippable
 """
 import sys
 from textblob import TextBlob
