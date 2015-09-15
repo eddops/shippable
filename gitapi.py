@@ -2,7 +2,7 @@ from pygithub3 import Github
 import requests
 import json
 
-gh = Github(login='edwinship', password='sainikschool')
+gh = Github(login='edwinship', password='sainikschool4030')
 
 _url = 'https://github.com/Shippable/support/issues'
 
